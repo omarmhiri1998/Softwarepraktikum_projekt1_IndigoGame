@@ -1,0 +1,12 @@
+The Indigo game project was developed as part of a university assignment, where you worked in a group and contributed to the view layer implementation using Kotlin. 
+The game, which can be played both against an AI and online, focuses on providing an interactive and engaging experience for users.
+
+my role in the project was to design and implement the view layer, which is responsible for the user interface (UI) and ensuring smooth interaction between the user and the game. 
+This layer includes graphical components, buttons, displays, and game status indicators, allowing players to interact with the game seamlessly.
+
+Key features of the Indigo game include:
+
+AI Gameplay: Players can play against a computer-controlled opponent, utilizing AI algorithms to provide a challenging experience.
+Online Multiplayer: The game allows players to compete against each other over the internet, adding a social and competitive aspect.
+View Layer: You focused on ensuring the visual elements of the game were intuitive, responsive, and user-friendly, providing players with an optimal gaming experience.
+By implementing the view layer, you played a crucial role in shaping how users experience the game, making it visually appealing and easy to navigate
